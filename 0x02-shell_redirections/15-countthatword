@@ -1,0 +1,3 @@
+#!b/bin/bash
+grep -1 "bin" /etc/passwd |WC -1 
+!
